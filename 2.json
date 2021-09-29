@@ -1,0 +1,16 @@
+{
+    "name": "Card 2",
+    "description": "Genesis card",
+    "image_url": "https://raw.githubusercontent.com/0378935252/Curt_Cards/main/2.jpg",
+    "attributes": [
+        {
+          "trait_type": "class", 
+          "value": "dragon"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 1624955102
+        }        
+      ]
+}
